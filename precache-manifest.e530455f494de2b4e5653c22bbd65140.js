@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "db5a8f06f4f4c0b965e4",
+    "revision": "71fc9b4e5c26f93a8a1d",
     "url": "/router-app/static/css/main.25d39f76.chunk.css"
   },
   {
-    "revision": "db5a8f06f4f4c0b965e4",
-    "url": "/router-app/static/js/main.db5a8f06.chunk.js"
+    "revision": "71fc9b4e5c26f93a8a1d",
+    "url": "/router-app/static/js/main.71fc9b4e.chunk.js"
   },
   {
     "revision": "a00cdf71a3fa2c38bc91",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/router-app/static/media/header3.d9d36b65.jpg"
   },
   {
-    "revision": "558c4f3ea528b8a00aa8b761ed9685f5",
+    "revision": "7e9d4053e8b6f8e15d247f5911e22f6c",
     "url": "/router-app/index.html"
   }
 ];
